@@ -1,2 +1,2 @@
-# -SSID-Password-Iogin
-# SSID-Password-Iogin (html,css,js) A login page was created using the coding language of the network of the smart methods company, and finally a button was made to go to the control page of the robot arm
+# SSID-Password-Iogin
+(html,css,JS)تم إنشاء صفحة تسجيل دخول بواسطة لغة الترميز بالرمز الخاص بالشبكة التابعة لشركة الاساليب الذكية , واخيرا تم عمل زر للانتقال الى صفحة التحكم بذراع الروبوت
